@@ -1,0 +1,5 @@
+package com.devmiguelangelogp.userdept.entities;
+
+public class User {
+
+}

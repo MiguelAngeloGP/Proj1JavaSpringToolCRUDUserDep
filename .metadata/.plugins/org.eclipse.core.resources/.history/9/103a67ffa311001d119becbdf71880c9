@@ -1,0 +1,5 @@
+package com.devmiguelangelogp.userdept.repositories;
+
+public class UserRepository {
+
+}

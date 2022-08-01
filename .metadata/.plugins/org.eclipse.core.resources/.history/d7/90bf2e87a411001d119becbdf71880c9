@@ -1,0 +1,5 @@
+package com.devmiguelangelogp.userdept.controllers;
+
+public class UserController {
+
+}
